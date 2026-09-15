@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "FYP Phishing URL Detector",
+  "version": "3.0",
+  "description": "Automatically checks every page you visit against a phishing-detection model and warns you if it looks suspicious.",
+
+  "permissions": [
+    "webNavigation",
+    "scripting",
+    "activeTab",
+    "storage"
+  ],
+
+  "host_permissions": [
+    "http://127.0.0.1:8000/*",
+    "http://localhost:8000/*",
+    "http://*/*",
+    "https://*/*"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon-neutral.png"
+  },
+
+  "icons": {
+    "48": "icons/icon-neutral.png"
+  }
+}

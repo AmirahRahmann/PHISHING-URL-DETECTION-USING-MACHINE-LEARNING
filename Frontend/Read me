@@ -1,0 +1,4 @@
+Communication flow: page loads → background.js detects it → calls your API → if phishing → sends a message to content.js → content.js shows the popup overlay.
+
+cd /d "D:\FYP Phishing Detection\backend"
+python -m uvicorn app:app --reload
