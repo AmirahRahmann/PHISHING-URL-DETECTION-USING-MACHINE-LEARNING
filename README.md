@@ -1,5 +1,6 @@
 👋 Hello, I'm Siti Amirah
-🎓 Bachelor of Computer Science (Hons) in Cybersecurity
+
+🎓 Bachelor of Computer Science (Hons) in Cybersecurity graduate
 
 I'm passionate about Cybersecurity, Machine Learning, Threat Detection, and Secure Software Development.
 
