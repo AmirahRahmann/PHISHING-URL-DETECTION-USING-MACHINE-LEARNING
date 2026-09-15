@@ -5,27 +5,21 @@ I'm passionate about Cybersecurity, Machine Learning, Threat Detection, and Secu
 
 My Final Year Project focused on developing a real-time phishing website detection system using Random Forest Machine Learning integrated with a Google Chrome Extension and FastAPI backend.
 
-Areas of Interest
-Cybersecurity
-Threat Intelligence
-Machine Learning
-Browser Security
-Digital Forensics
-Python Development
 Featured Project
 🔒 Phishing Website Fraud Detection for Browser Security
 
 A machine learning-powered phishing detection system that analyzes URLs in real-time and alerts users before accessing suspicious websites.
 
-Technologies
-Python
-Scikit-learn
-FastAPI
-JavaScript
-Chrome Extension API
-Random Forest
+Project Highlights
+- Python
+- Scikit-learn
+- FastAPI
+- JavaScript
+- Chrome Extension API
+- Random Forest
 
-Connect With Me
+Connect With Me :)
+
 LinkedIn: www.linkedin.com/in/siti-amirah-abd-rahman
 
 
