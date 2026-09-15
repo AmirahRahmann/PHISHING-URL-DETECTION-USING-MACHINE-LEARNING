@@ -24,6 +24,21 @@ FastAPI
 JavaScript
 Chrome Extension API
 Random Forest
+
 Connect With Me
-LinkedIn: [your-link]
-Email: [your-email]
+LinkedIn: www.linkedin.com/in/siti-amirah-abd-rahman
+
+
+HOW TO RUN
+DEMO vid: https://youtu.be/36y1YYD4CNU
+
+Watch the complete installation and system demonstration here:
+
+The video covers:
+
+- Launching the FastAPI backend
+- Installing the Chrome extension
+- Loading the Random Forest model
+- Testing legitimate websites
+- Testing phishing websites
+- Viewing prediction results
